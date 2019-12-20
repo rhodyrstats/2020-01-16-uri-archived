@@ -314,3 +314,10 @@ please preview your site before committing, and make sure to run
   that may be useful on the
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 </p>
+
+<h2>Workshop Sponsorship</h2>
+<p align="center">
+<img src="https://web.uri.edu/coastalinstitute/files/CI_Logo_high_res_web.jpg"> 
+<br>
+This workshop is made possible in part by the support of the <a href="https://ci.uri.edu/">URI Coastal Institute</a>.
+</p>
